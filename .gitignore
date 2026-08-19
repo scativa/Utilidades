@@ -1,0 +1,10 @@
+# Temporary extraction dirs left by h5p_a_pdf.py (interrupted runs)
+temp_*/
+
+# Input documents (data, not source)
+*.pdf
+*.h5p
+
+# Generated outputs
+out/
+Rotar/
